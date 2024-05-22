@@ -16,7 +16,7 @@ pyqt5-tools==5.15.4.3.2
 python-dotenv==0.19.1
 qt5-applications==5.15.2.2.2
 qt5-tools==5.15.2.1.2
-requests==2.26.0
+requests==2.32.0
 setuptools==57.0.0
 soupsieve==2.3
 urllib3==1.26.7
